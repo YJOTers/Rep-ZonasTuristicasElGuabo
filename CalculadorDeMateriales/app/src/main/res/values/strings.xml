@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculador de materiales</string>
+    <string name="theme_light">TEMA \nCLARO</string>
+    <string name="theme_night">TEMA \nOSCURO</string>
+    <string name="button_pared">PARED</string>
+    <string name="button_piso">PISO</string>
+    <string name="tv_vacio">0</string>
+    <string name="tv_uno">CALCULAR NUMERO DE LADRILLOS PARA UNA PARED</string>
+    <string name="tv_dos">ALTURA DE \nPARED (m)</string>
+    <string name="tv_tres">LARGO DE \nPARED (m)</string>
+    <string name="tv_cuatro">ESPESOR DE \nJUNTAS (m)</string>
+    <string name="rb_uno">LADRILLO</string>
+    <string name="rb_dos">BLOQUE</string>
+    <string name="rb_tres">APAREJO \nSOGA</string>
+    <string name="rb_cuatro">APAREJO \nESPAÑOL</string>
+    <string name="tv_cinco">CALCULAR NUMERO DE BALDOSAS PARA EL PISO</string>
+    <string name="tv_seis">M^2 DE LA CAJA \nDE BALDOSA</string>
+    <string name="tv_siete">M^2 DE LA \nHABITACION</string>
+    <string name="tv_ocho">BALDOSAS POR \nCAJA</string>
+    <string name="button_calcular">CALCULAR</string>
+    <string name="result_uno">SE NECESITA %.0f %s PARA LA PARED</string>
+    <string name="result_dos">SE NECESITAN %.0f CAJAS DE BALDOSAS \nEQUIVALENTE A %.0f BALDOSAS</string>
+</resources>
