@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clasificador de Peces</string>
+    <string name="test_view"><b>Bienvenid@</b>\nA continuacion elija la manera de subir la imagen para su analisis.</string>
+    <string name="activity1_name">Menu</string>
+    <string name="activity2_name">Analisis</string>
+    <string name="button_capture">Tomar fotografia</string>
+    <string name="button_galery">Seleccionar fotografia</string>
+    <string name="button_check">Analizar imagen</string>
+</resources>
